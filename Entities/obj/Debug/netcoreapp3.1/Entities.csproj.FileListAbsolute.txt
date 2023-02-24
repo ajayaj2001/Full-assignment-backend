@@ -1,0 +1,10 @@
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json

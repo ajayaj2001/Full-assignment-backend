@@ -1,0 +1,29 @@
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Office\training\full stack\assignment\dashboard\backend\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Office\training\full stack\assignment\dashboard\backend\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Office\training\full stack\assignment\dashboard\backend\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Office\training\full stack\assignment\dashboard\backend\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\CustomExceptionMiddleware.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Services\bin\Debug\netcoreapp3.1\CustomExceptionMiddleware.pdb

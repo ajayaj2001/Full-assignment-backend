@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\CustomExceptionMiddleware\\CustomExceptionMiddleware.csproj": {}
+  },
+  "projects": {
+    "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\CustomExceptionMiddleware\\CustomExceptionMiddleware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\CustomExceptionMiddleware\\CustomExceptionMiddleware.csproj",
+        "projectName": "CustomExceptionMiddleware",
+        "projectPath": "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\CustomExceptionMiddleware\\CustomExceptionMiddleware.csproj",
+        "packagesPath": "C:\\Users\\AjaySureshbabu\\.nuget\\packages\\",
+        "outputPath": "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\CustomExceptionMiddleware\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AjaySureshbabu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\AjaySureshbabu\\.nuget\\packages\\",
+        "outputPath": "C:\\Office\\training\\full stack\\assignment\\dashboard\\backend\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AjaySureshbabu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

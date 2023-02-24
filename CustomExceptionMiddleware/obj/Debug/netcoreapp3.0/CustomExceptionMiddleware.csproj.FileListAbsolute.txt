@@ -1,0 +1,11 @@
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\bin\Debug\netcoreapp3.0\CustomExceptionMiddleware.deps.json
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\bin\Debug\netcoreapp3.0\CustomExceptionMiddleware.dll
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\bin\Debug\netcoreapp3.0\CustomExceptionMiddleware.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\obj\Debug\netcoreapp3.0\CustomExceptionMiddleware.csprojAssemblyReference.cache
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\obj\Debug\netcoreapp3.0\CustomExceptionMiddleware.AssemblyInfoInputs.cache
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\obj\Debug\netcoreapp3.0\CustomExceptionMiddleware.AssemblyInfo.cs
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\obj\Debug\netcoreapp3.0\CustomExceptionMiddleware.csproj.CopyComplete
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\obj\Debug\netcoreapp3.0\CustomExceptionMiddleware.dll
+C:\Office\training\full stack\assignment\dashboard\backend\CustomExceptionMiddleware\obj\Debug\netcoreapp3.0\CustomExceptionMiddleware.pdb

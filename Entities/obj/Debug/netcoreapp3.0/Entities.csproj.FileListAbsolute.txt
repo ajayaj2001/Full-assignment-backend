@@ -1,0 +1,16 @@
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\AjaySureshbabu\office\training\full stack\back end\Pctel\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Office\training\full stack\assignment\dashboard\backend\Entities\obj\Debug\netcoreapp3.0\Entities.pdb

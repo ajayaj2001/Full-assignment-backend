@@ -1,0 +1,13 @@
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Office\training\full stack\assignment\dashboard\backend\repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
